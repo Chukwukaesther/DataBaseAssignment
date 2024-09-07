@@ -1,0 +1,1 @@
+Select* FROM cape_codd.catalog_sku_2017 WHERE catalogPage IS NOT NULL;

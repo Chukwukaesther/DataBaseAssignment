@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT Department) AS DeptCount FROM sku_data;
